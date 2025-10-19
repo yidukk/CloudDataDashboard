@@ -3,7 +3,8 @@
 A data-driven cloud metrics dashboard built with **ASP.NET Core Razor Pages**, **Entity Framework Core**, and **Chart.js**.  
 It visualizes key metrics (Cost, CPU, Storage, and Network) across **Azure, AWS, and GCP**.
 
-![screenshot](docs/dashboard.png)
+![Dashboard Screenshot](page.png)
+
 
 ## 🧠 Features
 - Interactive charts powered by **Chart.js**
